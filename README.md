@@ -68,8 +68,7 @@ industry
 </a>
  
 
-
-<a  href="mailto:sumitsingh993652@gmail.com" target="_blank">
+<a  href="mailto:sumitsingh993652@gmail.com" >
 <img  src="https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail"></a>
 
 </p>
